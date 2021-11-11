@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/)
 
-![](https://www.pexels.com/tr-tr/fotograf/doga-su-el-sallamak-mavi-9985770/)
+![img](https://www.pexels.com/tr-tr/fotograf/doga-su-el-sallamak-mavi-9985770/)
