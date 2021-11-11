@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 git clone https://github.com/meteveben/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra VSCode programında açınız.
 
@@ -19,12 +19,12 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 
 [MIT](https://choosealicense.com/)
 
-![image](https://www.pexels.com/tr-tr/fotograf/doga-su-el-sallamak-mavi-9985770/)
+![](https://www.pexels.com/tr-tr/fotograf/doga-su-el-sallamak-mavi-9985770/)
